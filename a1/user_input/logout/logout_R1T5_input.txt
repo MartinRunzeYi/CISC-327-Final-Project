@@ -1,0 +1,6 @@
+login
+agent
+deleteacct
+1234567
+valid1
+logout
