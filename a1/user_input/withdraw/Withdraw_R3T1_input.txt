@@ -1,0 +1,4 @@
+login
+machine
+withdraw
+12345678
