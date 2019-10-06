@@ -1,0 +1,6 @@
+login 
+agent 
+creatacct 
+2345678
+valid name
+logout

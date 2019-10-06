@@ -1,0 +1,7 @@
+login 
+agent 
+creatacct 
+2345678
+valid name
+transfer
+2345678  
