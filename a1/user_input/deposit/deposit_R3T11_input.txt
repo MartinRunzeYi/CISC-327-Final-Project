@@ -1,0 +1,5 @@
+login
+ATM
+deposit
+1234567
+500a

@@ -1,0 +1,4 @@
+login
+machine
+deposit
+123456a
