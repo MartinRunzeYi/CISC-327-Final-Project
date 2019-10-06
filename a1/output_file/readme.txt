@@ -1,1 +1,1 @@
-This fold contains the expected transaction summary file for different test cases
+This fold contains the expected transaction summary files for different test cases
